@@ -132,7 +132,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h3 className="font-semibold">Address</h3>
-                    <p className="text-gray-600">123 Luxury Villa Avenue, Beverly Hills, CA 90210</p>
+                    <p className="text-gray-600">123 Luxury Villa Avenue, Galle Road, CA 90210</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -151,7 +151,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+94 777824567</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -179,7 +179,7 @@ const Contact = () => {
             {/* Map */}
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.715208972234!2d-118.4065!3d34.0907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b3e3d3f3a8f1%3A0x3a3a3a3a3a3a3a3a!2sBeverly%20Hills%2C%20CA%2090210!5e0!3m2!1sen!2sus!4v1234567890!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63311.09569623741!2d80.1886341!3d6.0329656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae173c7e7e8c6c3%3A0x8e0e6e8e6e8e6e8e!2sGalle%20Fort!5e0!3m2!1sen!2slk!4v1718000000000!5m2!1sen!2slk"
                 width="100%"
                 height="300"
                 style={{ border: 0 }}
@@ -195,4 +195,4 @@ const Contact = () => {
   );
 };
 
-export default Contact; 
+export default Contact;
