@@ -2,6 +2,10 @@
 
 A modern, responsive website for a luxury villa business built with React, Tailwind CSS, and Node.js.
 
+## Live Demo
+
+[https://luxury-villa-nu.vercel.app/](https://luxury-villa-nu.vercel.app/)
+
 ## Features
 
 - Fully responsive design (Mobile, Tablet, Laptop)
